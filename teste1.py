@@ -3,3 +3,4 @@ import streamlit as st
 st.image("foto.kesia.jpeg")
 st.write("Site Kesia Alves")
 st.link_button("Acessar", "https://sites.google.com/academico.ifpb.edu.br/trabalhos-de-poo/in%C3%ADcio")
+st.link_button("Acessar","https://web.whatsapp.com/")
